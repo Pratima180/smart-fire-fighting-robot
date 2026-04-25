@@ -3,10 +3,10 @@
 ## Project Prototype
 
 ### Hardware Setup
-<img src="./hardware1.jpg" width="500"/>
+<img src="./hardware1.jpeg" width="500"/>
 
 ### Sensor and Chassis View
-<img src="./hardware2.jpg" width="500"/>
+<img src="./hardware2.jpeg" width="500"/>
 
 ---
 
@@ -69,7 +69,7 @@ This project includes:
 Click image below to watch project demo:
 
 <a href="https://drive.google.com/file/d/1BjNFz5paAG3evnkNEJQ1JabyyynPqG6l/view?usp=drive_link">
-<img src="./hardware1.jpg" width="500"/>
+  <img src="./hardware1.jpeg" width="500"/>
 </a>
 
 Direct Video Link:  
